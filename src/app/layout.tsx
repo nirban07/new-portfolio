@@ -2,7 +2,7 @@ import './globals.css';
 
 import { Inter as FontSans } from 'next/font/google';
 
-import GoogleAnalytics from '@/components/googleAnalytics';
+import GoogleAnalytics from '@/components/GoogleAnalytics';
 import Navbar from '@/components/navbar';
 import { ThemeProvider } from '@/components/theme-provider';
 import { TooltipProvider } from '@/components/ui/tooltip';
