@@ -5,7 +5,7 @@ import { Icons } from '@/components/icons';
 export const DATA = {
   name: "Nirban Roy",
   initials: "NR",
-  url: "https://linkedin.com/in/nirbanroy",
+  url: "https://new-portfolio-psi-tan.vercel.app/",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
