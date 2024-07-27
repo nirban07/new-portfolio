@@ -11,7 +11,7 @@ export const DATA = {
   description:
     "I am a Software Engineering Fellow at Headstarter AI. Passionate about writing and helping others who want to learn to code. You can connect with me via Twitter, LinkedIn or Email.",
   summary:
-    "After going through basic data structure and algorithms I quickly shifted to development and i am amazed by how much there is to learn and practice to reach a certain level of mastery. My mantra is to do things one step at a time. I pursued a bachelors degree in the field in Information Technology from 2019 - 2023 and am open to work globally.",
+    "After going through basic data structure and algorithms I quickly shifted to development and i am amazed by how much there is to learn and practice to reach a certain level of mastery. My mantra is to do things one step at a time. I pursued a bachelors degree in the field of Information Technology from 2019 - 2023 and am open to work globally.",
   avatarUrl: "/me.avif",
   skills: [
     "React",
